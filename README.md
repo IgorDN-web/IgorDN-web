@@ -1,29 +1,39 @@
-# 👋 Hi, I'm Igor Didkivskiy!
+### Hi there! I'm Igor Didkivskiy 
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Welcome!&fontSize=35&fontAlignY=40)
+I'm a passionate **Fullstack Developer** and a student at **GoIT**. I specialize in building responsive and high-performance web applications.
 
-## 🚀 About Me
+---
 
-- 💻 Fullstack Developer
-- 📚 Constantly learning new technologies
-- 🌎 Working with **React, Node.js, TypeScript**
-- 🎨 Passionate about UI/UX and animations
+### 🚀 Tech Stack:
 
-## 📊 GitHub Stats
+- 🌐 HTML, CSS, JavaScript
+- ⚛️ React.js + TypeScript
+- 🛠️ Node.js
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=IgorDidkivskiy&show_icons=true&theme=radical)
+---
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IgorDidkivskiy&layout=compact&theme=radical)
+### 📫 Contact Me:
 
-## 🛠️ Tech Stack
+<a href="https://www.linkedin.com/in/yourprofile/" target="_blank">
+  <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="transition: transform 0.3s ease-in-out;" onmouseover="this.style.transform='scale(1.1)';" onmouseout="this.style.transform='scale(1)';">
+</a>  
+<a href="https://github.com/yourusername" target="_blank">
+  <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" style="transition: transform 0.3s ease-in-out;" onmouseover="this.style.transform='scale(1.1)';" onmouseout="this.style.transform='scale(1)';">
+</a>  
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+---
 
-## 🔗 Connect with Me
+### 📊 GitHub Stats:
 
-[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/YOUR_TELEGRAM)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
 
-![Footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=gradient)
+---
+
+### ⚡ Fun Fact:
+I love solving coding challenges and learning new technologies to improve my skills every day!
+
+---
+
+🔗 **Let's connect and build something amazing together!** 🚀
+
