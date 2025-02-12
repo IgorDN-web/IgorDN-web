@@ -6,7 +6,9 @@
 
 - 💻 Fullstack Developer
 - 📚 Constantly learning new technologies
-- 🌎 Working with **React, Node.js, TypeScript**
+- 🌎 Working with **- 🌐 HTML, CSS, JavaScript
+- ⚛️ React.js + TypeScript
+- 🛠️ Node.js**
 - 🎨 Passionate about UI/UX and animations
 
 ## 📊 GitHub Stats
